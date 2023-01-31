@@ -1,4 +1,4 @@
-# Online-shopping-Analysis
+# Online-shopping-Analysis using PowerBi
 Since the occurrence of COVID-19 social distancing measures has been put in place 
 around the world, which made it hard to randomly walk into a store and buy 
 products, during this period, everyone had to resort to shopping online. Now that 
