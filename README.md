@@ -18,3 +18,4 @@ REFERENCES
 2. Community.powerbi. 2019. [online] Available at: 
 < https://community.powerbi.com/t5/Data-Stories-Gallery/Customer-Analysis-Dashboard/tdp/630893> 
 [Accessed 26 December 2022]
+![Online Shopping](https://user-images.githubusercontent.com/61271340/224816639-92f5eff3-1021-455a-856c-520c13f21936.png)
